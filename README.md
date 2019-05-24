@@ -1,3 +1,4 @@
 Hair & Makeup Appointment App
 
-Screenshots
+ERD
+<img src='imgs/projectTwo_ERD.jpeg'>
