@@ -4,10 +4,20 @@ body {
   background-color: #864aff
  }
  
- h1 {
+ .brand-logo {
   font-family: 'Archivo', sans-serif;
-  font-weight: 500;
-  color: #00fdcb
+  font-weight: 200;
+  font-size: 40px;
+  color: #00fdcb;
+  text-decoration: overline;
+ }
+
+ li {
+  font-family: 'Archivo', sans-serif;
+  font-weight: 200;
+  font-size: 20px;
+  color: #00fdcb;
+  text-decoration: none;
  }
  
  h2, h3 {
