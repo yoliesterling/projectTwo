@@ -1,0 +1,30 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  background-color: #864aff
+ }
+ 
+ .brand-logo {
+  font-family: 'Archivo', sans-serif;
+  font-weight: 200;
+  font-size: 40px;
+  color: #00fdcb;
+  text-decoration: overline;
+ }
+
+ li {
+  font-family: 'Archivo', sans-serif;
+  font-weight: 200;
+  font-size: 20px;
+  color: #00fdcb;
+  text-decoration: none;
+ }
+ 
+ h2, h3 {
+  font-family: 'Archivo', sans-serif;
+  font-weight: 500;
+ }
+
+a {
+  color: #00B7FF;
+}
